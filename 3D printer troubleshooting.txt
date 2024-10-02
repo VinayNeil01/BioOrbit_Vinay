@@ -1,0 +1,8 @@
+3D printer troubleshooting
+1. Check all wires are connected properly
+2. Do auto-levelling
+
+Print sliding off
+1. Z offset should be set to 0.01
+2. Increase bed temp to 85 (PLA)
+3. Decrease printing temp to 50%
